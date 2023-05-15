@@ -3,5 +3,7 @@ Esse repositório tem como colocar todos o scripts de banco de dados com MySQL d
 
 # Modelo DER 
 
+Feito no MySQL Workbench.
+
 ![image](https://github.com/Projeto-java-gen/doc-projeto-Inegrador/assets/47900701/a7e625ef-007d-49b7-9169-3e1aee8beca5)
 
