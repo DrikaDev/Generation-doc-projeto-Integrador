@@ -5,8 +5,7 @@ Esse repositório tem como colocar todos o scripts de banco de dados com MySQL d
 
 Feito no MySQL Workbench.
 
-![image](https://github.com/Projeto-java-gen/doc-projeto-Inegrador/assets/47900701/a7e625ef-007d-49b7-9169-3e1aee8beca5)
-
+![image](https://github.com/GenerationProjects/doc-projeto-Integrador/assets/47900701/34959ba4-d4a0-42ca-bcb4-c94bfa5ff3e8)
 
 # Script SQL 
 
