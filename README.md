@@ -11,4 +11,4 @@ https://github.com/GenerationProjects/projeto-da-terra-pra-mesa
 <p><a href="https://github.com/FelipeSdsilva" target="_blank">Felipe Sousa Silva;</p>
 <p><a href="https://github.com/gaabrielarod" target="_blank">Gabriela Souza;</a></p>
 <p><a href="https://github.com/slyblur" target="_blank">Giovanni Dias Fexina;</a></p>
-<p><a href="https://github.com/wmgaspar" target="_blank">Wesley Moreira Gaspar;</a></p>
+<p><a href="https://github.com/wmgaspar" target="_blank">Wesley Moreira Gaspar.</a></p>
